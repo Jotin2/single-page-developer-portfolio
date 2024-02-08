@@ -1,12 +1,15 @@
-html{
+html {
     box-sizing: border-box;
     font-size: 100%;
 }
 
-*,*::before, *::after{
+*,
+*::before, 
+*::after {
     box-sizing: inherit;
 }
 
-body{
+body {
     margin: 0;
+    font-family: 'Space Grotesk', sans-serif;
 }
